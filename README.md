@@ -1,5 +1,4 @@
 # Olá, eu sou João Lucas Souza! 👋
-
 ### 🎓 Estudante de Ciência da Computação | ⚙️ Automação & Integrações | 📍 Curitiba, PR
 
 Apaixonado por resolver problemas reais com tecnologia. Tenho focado em automação de processos, integrações entre sistemas e infraestrutura com Docker — transformando tarefas manuais em fluxos inteligentes e autônomos.
@@ -17,6 +16,11 @@ Apaixonado por resolver problemas reais com tecnologia. Tenho focado em automaç
 > Integração que monitora pipelines do Bitrix24 e dispara notificações automáticas no Microsoft Teams a cada atualização de card.
 - Stack: `Node-RED` · `Bitrix24 API` · `Microsoft Teams`
 
+### 🧩 [cubo_csTimer](https://github.com/joaosouzas/cubo_csTimer)
+> Simulador 3D interativo do cubo mágico com cronômetro integrado, geração de embaralhamentos e controles via teclado — inspirado no csTimer.
+- Stack: `Python` · `Ursina Engine`
+- O usuário embaralha o cubo, resolve e cronometra o tempo em tempo real diretamente na janela 3D.
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -28,6 +32,9 @@ Apaixonado por resolver problemas reais com tecnologia. Tenho focado em automaç
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
