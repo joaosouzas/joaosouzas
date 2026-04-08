@@ -1,5 +1,5 @@
 # Olá, eu sou João Lucas Souza! 👋
-### 🎓 Estudante de Ciência da Computação | ⚙️ Automação & Integrações | 📍 Curitiba, PR
+### 🎓 Ciência da Computação | ⚙️ Automação & Integrações | 📍 Curitiba, PR
 
 Apaixonado por resolver problemas reais com tecnologia. Tenho focado em automação de processos, integrações entre sistemas e infraestrutura com Docker — transformando tarefas manuais em fluxos inteligentes e autônomos.
 
