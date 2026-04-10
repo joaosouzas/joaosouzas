@@ -1,34 +1,34 @@
-# Olá, eu sou João Lucas Souza! 👋
-### 🎓 Ciência da Computação | ⚙️ Automação & Integrações | 📍 Curitiba, PR
+# Hi, I'm João Lucas Souza! 👋
+### 🎓 Computer Science Student | ⚙️ Automation & Integrations | 📍 Curitiba, Brazil
 
-Apaixonado por resolver problemas reais com tecnologia. Tenho focado em desenvolvimento de APIs seguras, automação de processos e infraestrutura com Docker — transformando tarefas manuais em fluxos inteligentes e autônomos.
+Passionate about solving real-world problems through technology. My focus is on developing secure APIs, process automation, and infrastructure with Docker — transforming manual tasks into intelligent, autonomous workflows.
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
-### 📈 [Investment API — Backend Seguro para Portfólios](https://github.com/joaosouzas/investment-portfolio-api)
-> API RESTful desenvolvida em Spring Boot para gestão de carteiras de investimento, com foco em segurança financeira e precisão de dados.
-- Stack: `Java 21` · `Spring Boot 3.4` · `PostgreSQL` · `Docker` · `JWT` · `OpenFeign (Alpha Vantage)`
-- Implementa lógica de **Preço Médio** e **Zero Trust**, garantindo que o usuário só acesse o próprio patrimônio. Utiliza `BigDecimal` para cálculos financeiros precisos, evitando erros de arredondamento.
+### 📈 [Investment API — Secure Portfolio Backend](https://github.com/joaosouzas/investment-portfolio-api)
+> A RESTful API built with Spring Boot for investment portfolio management, focusing on financial security and data precision.
+- **Stack**: `Java 21` · `Spring Boot 3.4` · `PostgreSQL` · `Docker` · `JWT` · `OpenFeign (Alpha Vantage)`
+- **Key Features**: Implements **Average Price** logic and **Zero Trust** architecture, ensuring users only access their own data. Uses `BigDecimal` for high-precision financial calculations.
 
-### 🔄 [Automação Bitrix24 com Node-RED](https://github.com/joaosouzas/Node-Red-Automa-o-Bitrix24)
-> Integração que monitora pipelines do Bitrix24 e dispara notificações automáticas no Microsoft Teams a cada atualização de card.
-- Stack: `Node-RED` · `Bitrix24 API` · `Microsoft Teams` · `Docker`
-- Automatiza a comunicação entre as equipes, garantindo que ninguém perca uma atualização de status no CRM.
+### 🔄 [Bitrix24 Automation with Node-RED](https://github.com/joaosouzas/Node-Red-Automa-o-Bitrix24)
+> Integration that monitors Bitrix24 pipelines and triggers automated Microsoft Teams notifications for every card update.
+- **Stack**: `Node-RED` · `Bitrix24 API` · `Microsoft Teams` · `Docker`
+- **Key Features**: Automates team communication, ensuring no status update in the CRM goes unnoticed.
 
-### 🏢 [Automação de Boletos via WhatsApp — Condomínio Búzios](https://github.com/joaosouzas/condominio-buzios-automacao)
-> Solução end-to-end para automatizar a consulta de segunda via de boletos para **1.603 moradores** via WhatsApp, 24/7.
-- Stack: `n8n` · `PostgreSQL` · `Docker` · Caddy · BotConversa · VPS
-- O morador digita o CPF no WhatsApp e recebe o boleto instantaneamente — sem atendimento humano.
+### 🏢 [WhatsApp Invoice Automation — Condomínio Búzios](https://github.com/joaosouzas/condominio-buzios-automacao)
+> An end-to-end solution to automate invoice requests for **1,603 residents** via WhatsApp, available 24/7.
+- **Stack**: `n8n` · `PostgreSQL` · `Docker` · `Caddy` · `BotConversa` · `VPS`
+- **Key Features**: Residents can retrieve invoices instantly by typing their CPF—zero human intervention required.
 
 ### 🧩 [cubo_csTimer](https://github.com/joaosouzas/cubo_csTimer)
-> Simulador 3D interativo do cubo mágico com cronômetro integrado, geração de embaralhamentos e controles via teclado — inspirado no csTimer.
-- Stack: `Python` · `Ursina Engine`
+> An interactive 3D Rubik's Cube simulator with an integrated timer, scramble generation, and keyboard controls — inspired by csTimer.
+- **Stack**: `Python` · `Ursina Engine`
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -42,7 +42,7 @@ Apaixonado por resolver problemas reais com tecnologia. Tenho focado em desenvol
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaosouzas&theme=tokyonight"/><br><br>
@@ -55,9 +55,10 @@ Apaixonado por resolver problemas reais com tecnologia. Tenho focado em desenvol
   <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-ea4b71?style=for-the-badge&logo=n8n&logoColor=white" />
 </div>
+
 ---
 
-## 📫 Vamos nos conectar?
+## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jlucas-souza/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaosouzas)
