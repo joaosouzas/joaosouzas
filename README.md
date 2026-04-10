@@ -47,12 +47,13 @@ Apaixonado por resolver problemas reais com tecnologia. Tenho focado em desenvol
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaosouzas&theme=tokyonight"/><br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouzas&layout=compact&langs_count=6&theme=tokyonight" onerror="this.src='https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaosouzas&theme=tokyonight'" /><br><br>
-
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-ea4b71?style=for-the-badge&logo=n8n&logoColor=white" />
 </div>
 ---
 
