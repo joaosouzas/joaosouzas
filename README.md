@@ -45,8 +45,11 @@ Apaixonado por resolver problemas reais com tecnologia. Tenho focado em desenvol
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosouzas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouzas&layout=compact&langs_count=6&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosouzas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaosouzas&theme=tokyonight"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouzas&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 ---
