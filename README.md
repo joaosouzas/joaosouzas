@@ -45,13 +45,16 @@ Apaixonado por resolver problemas reais com tecnologia. Tenho focado em desenvol
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosouzas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaosouzas&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaosouzas&theme=tokyonight"/><br><br>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouzas&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=joaosouzas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas de João Lucas" /><br>
+
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
-
 ---
 
 ## 📫 Vamos nos conectar?
