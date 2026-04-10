@@ -12,15 +12,19 @@ Apaixonado por resolver problemas reais com tecnologia. Tenho focado em desenvol
 - Stack: `Java 21` · `Spring Boot 3.4` · `PostgreSQL` · `Docker` · `JWT` · `OpenFeign (Alpha Vantage)`
 - Implementa lógica de **Preço Médio** e **Zero Trust**, garantindo que o usuário só acesse o próprio patrimônio. Utiliza `BigDecimal` para cálculos financeiros precisos, evitando erros de arredondamento.
 
+### 🔄 [Automação Bitrix24 com Node-RED](https://github.com/joaosouzas/Node-Red-Automa-o-Bitrix24)
+> Integração que monitora pipelines do Bitrix24 e dispara notificações automáticas no Microsoft Teams a cada atualização de card.
+- Stack: `Node-RED` · `Bitrix24 API` · `Microsoft Teams` · `Docker`
+- Automatiza a comunicação entre as equipes, garantindo que ninguém perca uma atualização de status no CRM.
+
 ### 🏢 [Automação de Boletos via WhatsApp — Condomínio Búzios](https://github.com/joaosouzas/condominio-buzios-automacao)
 > Solução end-to-end para automatizar a consulta de segunda via de boletos para **1.603 moradores** via WhatsApp, 24/7.
-- Stack: `n8n` · `PostgreSQL` · `Docker` · `Caddy (HTTPS)` · `BotConversa` · `VPS`
+- Stack: `n8n` · `PostgreSQL` · `Docker` · Caddy · BotConversa · VPS
 - O morador digita o CPF no WhatsApp e recebe o boleto instantaneamente — sem atendimento humano.
 
 ### 🧩 [cubo_csTimer](https://github.com/joaosouzas/cubo_csTimer)
 > Simulador 3D interativo do cubo mágico com cronômetro integrado, geração de embaralhamentos e controles via teclado — inspirado no csTimer.
 - Stack: `Python` · `Ursina Engine`
-- O usuário embaralha o cubo, resolve e cronometra o tempo em tempo real diretamente na janela 3D.
 
 ---
 
@@ -28,7 +32,7 @@ Apaixonado por resolver problemas reais com tecnologia. Tenho focado em desenvol
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-ea4b71?style=for-the-badge&logo=n8n&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
