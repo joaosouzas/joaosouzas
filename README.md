@@ -31,8 +31,7 @@ Passionate about solving real-world problems through technology. My focus is on 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaosouzas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouzas&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaosouzas&theme=tokyonight"/>
 </div>
 
 ## 🛠️ Tecnologias & Ferramentas
